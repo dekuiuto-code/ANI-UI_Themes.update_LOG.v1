@@ -1,0 +1,14 @@
+{
+  "status": "is live",
+  "theme": {
+    "name": "PIXEL.exp",
+    "logo": "https://github.com/Dekuiuto/ANI-UI_Themes/raw/refs/heads/main/IMG_20250612_201051_711.jpg",
+    "current_v": "0.3.0",
+    "previous_v": "0.3.0"
+  },
+  "changelog": {
+    "features": "• New animation added\n• 3rd lockscreen type prototype released",
+    "fixes": "• Fixed image fetching error\n• Corrected aod and clock animation"
+  },
+  "link": "https://t.me/Ani_Ui_in/1223"
+}
