@@ -1,14 +1,14 @@
 {
-  "status": "is live",
+  "status": "live",
   "theme": {
-    "name": "PIXEL.exp",
+    "name": "NIOBIUM UI",
     "logo": "https://github.com/Dekuiuto/ANI-UI_Themes/raw/refs/heads/main/IMG_20250612_201051_711.jpg",
-    "current_v": "0.3.0",
-    "previous_v": "0.3.0"
+    "current_v": "0.1.3",
+    "previous_v": "0.1.2"
   },
   "changelog": {
-    "features": "• New animation added\n• 3rd lockscreen type prototype released",
-    "fixes": "• Fixed image fetching error\n• Corrected aod and clock animation"
+    "features": "• New animation added\n• New characters introduced",
+    "fixes": "• Fixed image fetching error\n• Fixed animation error"
   },
-  "link": "https://t.me/Ani_Ui_in/1223"
+  "link": "https://t.me/Ani_Ui_in/1219"
 }
