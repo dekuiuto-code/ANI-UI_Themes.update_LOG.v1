@@ -1,0 +1,14 @@
+{
+  "status": "Is live",
+  "theme": {
+    "name": "Widget.in.Ani.prem",
+    "logo": "https://github.com/Dekuiuto/ANI-UI_Themes/raw/refs/heads/main/VALUT%20ui%20icon%20.jpg",
+    "current_v": "1.0.0",
+    "previous_v": "1.0.0"
+  },
+  "changelog": {
+    "features": "• New animation added\n• New characters introduced",
+    "fixes": "• Fixed image fetching error\n• Fixed animation error"
+  },
+  "link": "https://t.me/Ani_Ui_in/1219"
+}
