@@ -1,9 +1,9 @@
 {
-  "status": "live",
+  "status": "is live",
   "theme": {
     "name": "prototype.v.3",
     "logo": "https://github.com/dekuiuto-code/Icon.image.ANI-UI_Themes.update_LOG.v1/raw/refs/heads/main/project%20planet%20%5Bprototype.v.2.base%5D.jpg",
-    "current_v": "3.0.0",
+    "current_v": "2.0.0",
     "previous_v": "2.0.0"
   },
   "changelog": {
