@@ -1,0 +1,41 @@
+{
+  "themes": [
+    {
+      "micro_id": "1.0.0.0",
+      "id": "valit_ui_01",
+      "release_type": "release", 
+      "theme_type": "klwp",
+      "theme_version": "v1.3.0",
+      "pack_app_version": "v2.0.1",
+      "cover_image_url": "https://yourwebsite.com/assets/valit/cover.png",
+      "youtube_preview_url": "https://youtu.be/valit_preview",
+      "preview_images": [
+        "https://yourwebsite.com/assets/valit/shot1.png",
+        "https://yourwebsite.com/assets/valit/shot2.png"
+      ],
+      "price": "₹99",
+      "description": "Premium glassmorphic setup with smooth layout switches.",
+      "download_type": "tg_dm",
+      "download_target": "https://t.me/your_telegram_username"
+    },
+    {
+      "micro_id": "1.0.0.1",
+      "id": "niobium_remake",
+      "release_type": "remake", 
+      "theme_type": "klwp",
+      "theme_version": "v1.0.2",
+      "pack_app_version": "v2.0.0",
+      "cover_image_url": "https://yourwebsite.com/assets/niobium/cover.png",
+      "youtube_preview_url": "https://youtu.be/niobium_preview",
+      "preview_images": [
+        "https://yourwebsite.com/assets/niobium/shot1.png",
+        "https://yourwebsite.com/assets/niobium/shot2.png"
+      ],
+      "price": "Free",
+      "description": "A clean, dark remake of the classic Niobium layout.",
+      "download_type": "tg_dm",
+      "download_target": "https://t.me/your_telegram_username"
+    }
+  ]
+}
+
