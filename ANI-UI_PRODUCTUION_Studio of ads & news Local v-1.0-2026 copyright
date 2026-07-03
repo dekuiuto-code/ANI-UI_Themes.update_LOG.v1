@@ -2,30 +2,32 @@
   "settings": {
     "rotation_speed": 5,
     "auto_cycle": "1",
-    "theme_version": "1.3.0"
+    "theme_version": "1.0.0"
   },
   "ads": [
     {
       "title": "ZZZ One UI Pro",
-      "media": "https://i.ibb.co/kVQCpk6t/IMG-20260703-095519-554.jpg",
+      "description": "Experience the ultimate glassmorphism theme.",
+      "media": "https://i.ibb.co/example/zzz.gif",
       "link": "https://play.store/zzz",
       "active": "1",
       "priority": 1
     },
     {
       "title": "Note UI Pro",
-      "media": "https://i.ibb.co/kVQCpk6t/IMG-20260703-095519-554.jpg",
+      "description": "Professional note-taking interface.",
+      "media": "https://i.ibb.co/example/note.gif",
       "link": "https://play.store/note",
       "active": "1",
       "priority": 2
     },
     {
-      "title": "ANI-UI_Themes®",
-      "media": "https://i.ibb.co/kVQCpk6t/IMG-20260703-095519-554.jpg",
-      "link": "https://t.me/Ani_Ui_in",
+      "title": "ANI-UI",
+      "description": "The foundation of your digital ecosystem.",
+      "media": "https://i.ibb.co/example/ani.gif",
+      "link": "https://play.store/ani",
       "active": "1",
       "priority": 3
     }
   ]
 }
-
