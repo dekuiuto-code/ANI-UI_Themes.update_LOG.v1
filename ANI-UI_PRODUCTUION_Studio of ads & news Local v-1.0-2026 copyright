@@ -1,6 +1,6 @@
 {
   "settings": {
-    "rotation_speed": 5,
+    "rotation_speed": 3,
     "auto_cycle": "1",
     "theme_version": "1.0.0"
   },
