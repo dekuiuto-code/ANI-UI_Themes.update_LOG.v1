@@ -1,14 +1,14 @@
 {
-  "status": "is live",
+  "status": "live",
   "theme": {
     "name": "ZZZ-one_ui",
     "logo": "https://github.com/dekuiuto-code/Icon.image.ANI-UI_Themes.update_LOG.v1/raw/refs/heads/main/project%20planet%20%5Bprototype.v.2.base%5D.jpg",
     "current_v": "2.0.0",
-    "previous_v": "2.0.0"
+    "previous_v": "1.0.0"
   },
   "changelog": {
     "features": "•more stable ",
     "fixes": "• Fixed not moving about page \n• Fixed animation frozen error"
   },
-  "link": "https://t.me/Ani_Ui_in/1219"
+  "link": "https://t.me/Ani_Ui_in/1418"
 }
