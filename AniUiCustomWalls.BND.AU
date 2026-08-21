@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AU-010 | Chisa Mobile Wallpaper - Wuthering Waves · 2 Pcs",
+    "description": "Ultra HD 4K watermark-free dual wallpaper, deeply adapted for Android & iOS lockscreen and home screen widgets.",
+    "preview_pics": [
+      "https://ani-ui.vercel.app/images/au-010-preview-1.jpg",
+      "https://ani-ui.vercel.app/images/au-010-preview-2.jpg",
+      "https://ani-ui.vercel.app/images/au-010-preview-3.jpg",
+      "https://ani-ui.vercel.app/images/au-010-preview-4.jpg"
+    ],
+    "download_link": "https://ani-ui.vercel.app/download/au-010-chisa-wallpaper.zip",
+    "pin_code": null,
+    "price": {
+      "current_price": 0.00,
+      "original_price": 1.00,
+      "currency": "USD"
+    },
+    "percentage_off": "100%"
+  },
+  {
+    "title": "AU-011 | Cyberpunk Visual Pack · 3 Pcs",
+    "description": "High-contrast neon dark aesthetic wallpapers fine-tuned for custom launcher setups and widget integration.",
+    "preview_pics": [
+      "https://ani-ui.vercel.app/images/au-011-preview-1.jpg",
+      "https://ani-ui.vercel.app/images/au-011-preview-2.jpg",
+      "https://ani-ui.vercel.app/images/au-011-preview-3.jpg",
+      "https://ani-ui.vercel.app/images/au-011-preview-4.jpg"
+    ],
+    "download_link": "https://ani-ui.vercel.app/download/au-011-cyberpunk-pack.zip",
+    "pin_code": "4829",
+    "price": {
+      "current_price": 0.50,
+      "original_price": 2.00,
+      "currency": "USD"
+    },
+    "percentage_off": "75%"
+  }
+]
