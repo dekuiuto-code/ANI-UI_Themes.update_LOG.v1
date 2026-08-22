@@ -34,5 +34,23 @@
       "currency": "USD"
     },
     "percentage_off": "75%"
+  },
+  {
+    "title": "AU-012 | Butterfly Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
+    "description": "High-contrast neon dark aesthetic wallpaper fine-tuned for custom launcher setups and widget integration.",
+    "preview_pics": [
+      "https://i.ibb.co/DgmPZLSV/MARK-3-Butterfly-showcase-preview-1.jpg",
+      "https://i.ibb.co/7dFp1tct/MARK-3-Butterfly-showcase-preview-2.jpg",
+      "https://i.ibb.co/2YLNBNGs/MARK-3-Butterfly-showcase-preview-3.jpg",
+      "https://i.ibb.co/kVQCpk6t/IMG-20260703-095519-554.jpg"
+    ],
+    "download_link": "https://ani-ui.vercel.app/download/au-011-cyberpunk-pack.zip",
+    "pin_code": "8929",
+    "price": {
+      "current_price": 0.50,
+      "original_price": 2.00,
+      "currency": "USD"
+    },
+    "percentage_off": "75%"
   }
 ]
