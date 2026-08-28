@@ -18,7 +18,7 @@
     "percentage_off": "100%"
   },
   {
-    "title": "AU-002 | Chisaki Mobile Wallpaper - Narushio Wallpaper (2 images total)",
+    "title": "AU-002 | Chisa Mobile Wallpaper - Narushio Wallpaper (2 images total)",
     "description": "High-contrast neon dark aesthetic wallpaper fine-tuned for custom launcher setups and widget integration.",
     "preview_pics": [
       "https://i.ibb.co/TBHdY1m9/MARK-2-Chisaki-v2-showcase-preview-1.jpg",
@@ -26,14 +26,14 @@
       "https://i.ibb.co/pjg0BZ7D/MARK-2-Chisaki-v2-showcase-preview-3.jpg",
       "https://i.ibb.co/TMNTB9sC/NOTICE-ANI-UI-Custom-Walls-X-ANI-UI-ECOsystem.jpg"
     ],
-    "download_link": "https://ani-ui.vercel.app/download/au-011-cyberpunk-pack.zip",
-    "pin_code": "4829",
+    "download_link": "https://drive.google.com/file/d/1K3RffcgUwQ7VDLlh1N7iRnA0Dvg7THkx/view?usp=drivesdk",
+    "pin_code": "4929",
     "price": {
-      "current_price": 0.50,
-      "original_price": 2.00,
+      "current_price": 0.99,
+      "original_price": 1.00,
       "currency": "USD"
     },
-    "percentage_off": "75%"
+    "percentage_off": "1%"
   },
   {
     "title": "AU-003 | Butterfly Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
@@ -44,13 +44,13 @@
       "https://i.ibb.co/2YLNBNGs/MARK-3-Butterfly-showcase-preview-3.jpg",
       "https://i.ibb.co/TMNTB9sC/NOTICE-ANI-UI-Custom-Walls-X-ANI-UI-ECOsystem.jpg"
     ],
-    "download_link": "https://ani-ui.vercel.app/download/au-011-cyberpunk-pack.zip",
+    "download_link": "https://ani-ui.vercel.app/download/au-011-examole-pack.zip",
     "pin_code": "8929",
     "price": {
-      "current_price": 0.50,
+      "current_price": 0.90,
       "original_price": 2.00,
       "currency": "USD"
     },
-    "percentage_off": "75%"
+    "percentage_off": "55%"
   }
 ]
