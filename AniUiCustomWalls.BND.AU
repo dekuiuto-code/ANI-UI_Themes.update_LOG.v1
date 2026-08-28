@@ -29,11 +29,11 @@
     "download_link": "https://drive.google.com/file/d/1K3RffcgUwQ7VDLlh1N7iRnA0Dvg7THkx/view?usp=drivesdk",
     "pin_code": "4929",
     "price": {
-      "current_price": 0.99,
+      "current_price": null,
       "original_price": 1.00,
       "currency": "USD"
     },
-    "percentage_off": "1%"
+    "percentage_off": "0%"
   },
   {
     "title": "AU-003 | Butterfly Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
