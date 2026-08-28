@@ -15,7 +15,9 @@
       "original_price": 1.00,
       "currency": "USD"
     },
-    "percentage_off": "100%"
+    "status": "Free",
+    "percentage_off": "100%",
+    "details_written": "Ultra HD 4K watermark-free dual wallpaper, deeply adapted for Android & iOS lockscreen and home screen widgets."
   },
   {
     "title": "AU-002 | Chisa Mobile Wallpaper - Narushio Wallpaper (2 images total)",
@@ -33,7 +35,9 @@
       "original_price": 1.00,
       "currency": "USD"
     },
-    "percentage_off": "0%"
+    "status": "Paid",
+    "percentage_off": "0%",
+    "details_written": "High-contrast neon dark aesthetic wallpaper fine-tuned for custom launcher setups and widget integration."
   },
   {
     "title": "AU-003 | Butterfly Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
@@ -51,6 +55,8 @@
       "original_price": 2.00,
       "currency": "USD"
     },
-    "percentage_off": "55%"
+    "status": "Paid",
+    "percentage_off": "55%",
+    "details_written": "High-contrast neon dark aesthetic wallpaper fine-tuned for custom launcher setups and widget integration."
   }
 ]
