@@ -29,7 +29,7 @@
     "download_link": "https://drive.google.com/file/d/1K3RffcgUwQ7VDLlh1N7iRnA0Dvg7THkx/view?usp=drivesdk",
     "pin_code": "4929",
     "price": {
-      "current_price": null,
+      "current_price": 1.00,
       "original_price": 1.00,
       "currency": "USD"
     },
