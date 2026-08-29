@@ -16,7 +16,8 @@
       "currency": "USD"
     },
     "status": "Free",
-    "percentage_off": "100%"
+    "percentage_off": "100%",
+    "tg_post": null
   },
   {
     "title": "AU-002 | Chisa Mobile Wallpaper - Narushio Wallpaper (2 images total)",
@@ -35,7 +36,8 @@
       "currency": "USD"
     },
     "status": "Paid",
-    "percentage_off": "0%"
+    "percentage_off": "0%",
+    "tg_post": "https://t.me/Ani_Ui_in/1454"
   },
   {
     "title": "AU-003 | Butterfly Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
@@ -54,6 +56,7 @@
       "currency": "USD"
     },
     "status": "Paid",
-    "percentage_off": "55%"
+    "percentage_off": "55%",
+    "tg_post": "https://t.me/Ani_Ui_in/1456"
   }
 ]
