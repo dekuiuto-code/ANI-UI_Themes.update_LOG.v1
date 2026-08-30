@@ -52,6 +52,66 @@
     "pin_code": "8929",
     "price": {
       "current_price": 0.90,
+      "original_price": 1.00,
+      "currency": "USD"
+    },
+    "status": "Paid",
+    "percentage_off": "55%",
+    "tg_post": "https://t.me/Ani_Ui_in/1456"
+  },
+  {
+    "title": "AU-004 | NYLON-JAPAN Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
+    "description": "lock screen and home screen layout featuring the character Castorice from Honkai: Star Rail, complete with matching minimal widgets and icons.",
+    "preview_pics": [
+      "https://i.ibb.co/gbshBzwk/MARK-4-NYLON-JAPAN-showcase-preview-1.webp,
+      "https://i.ibb.co/Jw3tYp6X/MARK-4-NYLON-JAPAN-showcase-preview-2.webp",
+      "https://i.ibb.co/hJ8N33kr/MARK-4-NYLON-JAPAN-showcase-preview-3.webp",
+      "https://i.ibb.co/TMNTB9sC/NOTICE-ANI-UI-Custom-Walls-X-ANI-UI-ECOsystem.jpg"
+    ],
+    "download_link": "https://drive.google.com/file/d/1yUZ92xQCGlTOnaSHrhCQFiWe2_Y1NBCJ/view?usp=drivesdk",
+    "pin_code": "1399",
+    "price": {
+      "current_price": 0.90,
+      "original_price": 2.00,
+      "currency": "USD"
+    },
+    "status": "Paid",
+    "percentage_off": "55%",
+    "tg_post": "https://t.me/Ani_Ui_in/1456"
+  },
+  {
+    "title": "AU-005 | Hoshimi-Yafanda Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
+    "description": "lock screen and home screen layout featuring the character Castorice from Honkai: Star Rail, complete with matching minimal widgets and icons.",
+    "preview_pics": [
+      "https://i.ibb.co/CsYgDhpp/MARK-5-Hoshimi-Yafanda-showcase-preview-1.webp",
+      "https://i.ibb.co/Qv63DDzB/MARK-5-Hoshimi-Yafanda-showcase-preview-2.webp",
+      "https://i.ibb.co/cKjqtCmZ/MARK-5-Hoshimi-Yafanda-showcase-preview-3.webp",
+      "https://i.ibb.co/TMNTB9sC/NOTICE-ANI-UI-Custom-Walls-X-ANI-UI-ECOsystem.jpg"
+    ],
+    "download_link": "https://drive.google.com/file/d/1SPU6iX31jf7NWHrYySpiaRrC7s1tDQgV/view?usp=drivesdk",
+    "pin_code": "9216",
+    "price": {
+      "current_price": 0.90,
+      "original_price": 2.00,
+      "currency": "USD"
+    },
+    "status": "Paid",
+    "percentage_off": "55%",
+    "tg_post": "https://t.me/Ani_Ui_in/1456"
+  },
+  {
+    "title": "AU-006 | Firefly-Tiny Mobile Wallpaper - Starry Sky Railway Wallpaper (2 images total)",
+    "description": "lock screen and home screen layout featuring the character Castorice from Honkai: Star Rail, complete with matching minimal widgets and icons.",
+    "preview_pics": [
+      "https://i.ibb.co/HfcjpksC/MARK-6-Firefly-Tiny-showcase-preview-1.webp",
+      "https://i.ibb.co/fV6CfM0V/MARK-6-Firefly-Tiny-showcase-preview-2.webp",
+      "https://i.ibb.co/v4VWjsMX/MARK-6-Firefly-Tiny-showcase-preview-3.webp",
+      "https://i.ibb.co/TMNTB9sC/NOTICE-ANI-UI-Custom-Walls-X-ANI-UI-ECOsystem.jpg"
+    ],
+    "download_link": "https://drive.google.com/file/d/1nhM-LLXdK6jRWbCfnNye8VtQNLmG8dAf/view?usp=drivesdk",
+    "pin_code": "7269",
+    "price": {
+      "current_price": 0.90,
       "original_price": 2.00,
       "currency": "USD"
     },
